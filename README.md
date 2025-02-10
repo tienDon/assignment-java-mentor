@@ -2,7 +2,7 @@
 
 1. Clone git repo `ass-java-mentor` về máy tính
    ```
-   git clone [git@github.com:codefodvn/ass-java-mentor.git](https://github.com/codefodvn/ass-java-mentor.git)
+   git clone https://github.com/codefodvn/ass-java-mentor.git
    ```
 2. Checkout sang nhánh mới đặt tên lầ `ass/[name]-[mentor]-[thời gian bắt đầu học]`
 
