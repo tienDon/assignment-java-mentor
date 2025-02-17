@@ -1,11 +1,9 @@
 # Cách làm bài tập
 
-1. Clone git repo `ass-java-mentor` về máy tính
-   ```
-   git clone [git@github.com:codefodvn/ass-java-mentor.git](https://github.com/codefodvn/ass-java-mentor.git)
-   ```
-2. Checkout sang nhánh mới đặt tên lầ `ass/[name]-[mentor]-[thời gian bắt đầu học]`
+1. Fork repository về tài khoản GitHub cá nhân
+2. Clone git repo vừa fork trên git của mình
+3. Checkout sang nhánh mới đặt tên lầ `answer/[name]-[mentor]-[thời gian bắt đầu học]`
 
-   Ví dụ: `ass/kinhhg-anhntl-02-2025`
+   Ví dụ: `answer/kinhhg-anhntl-02-2025`
 4. Làm bài tập, hoàn thành các todo, answer trong folder theo từng tuần
 5. Gửi mentor review theo từng tuần
