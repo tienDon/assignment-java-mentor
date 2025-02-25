@@ -1,42 +1,39 @@
 
-# Week 1: Git
+# Week 3: OOP
 
-1. Git thực sự lưu trữ dữ liệu như thế nào? Các đối tượng (objects) như blob, tree, commit, và tag có quan hệ gì với nhau trong hệ thống lưu trữ phân tán của Git?
-
-- Answer:
-
-2. Khi ta di chuyển giữa các commit, Git làm gì dưới lớp vỏ bọc của nó? HEAD thực chất là gì và nó tác động thế nào đến trạng thái hiện tại của repository?
+1. Lập trình hướng đối tượng là gì? So sánh với hướng lập trình thủ tục
 
 - Answer:
 
-3. Git có thể tạo hàng nghìn nhánh (branches) gần như tức thì mà không tốn tài nguyên. Điều này hoạt động ra sao về mặt kỹ thuật, và tại sao việc hợp nhất (merge) đôi khi lại dẫn đến xung đột?
+2. Giải thích 4 nguyên tắc cơ bản OOP: Encapsulation, abstraction, Inheritance, Polymorphism
 
 - Answer:
 
-4. Khi ta thêm file vào staging area, thực chất Git làm gì? Điều gì thực sự thay đổi khi ta chạy lệnh git commit?
+3. Interface và abstract Class khác nhau như thế nào?
 
 - Answer:
 
-5. Git phân biệt working directory, staging area và repository như thế nào? Tại sao có những thay đổi được theo dõi nhưng chưa được commit?
+4. Một class có thể kế thừa nhiều class cùng lúc không? nếu không thì tại sao?
 
 - Answer:
 
-6. Git lưu trữ thay đổi của ta ở đâu? Làm thế nào Git có thể khôi phục những thay đổi đã bị "stash" một cách chính xác?
-
+5. Làm thế nào để đảm bảo một class tuân theo nguyên tắc Encapsulation
 - Answer:
 
-7. Khi xảy ra xung đột hợp nhất (merge conflict), tại sao Git không thể tự động giải quyết? Git sử dụng cơ chế nào để xác định sự khác biệt và yêu cầu sự can thiệp của lập trình viên?
-
+6. Tại sao nên sử dụng getter và setter thay vì truy cập trực tiếp biến instance?
 - Answer:
 
-8.  Git duy trì lịch sử commit như thế nào? Cấu trúc cây (tree structure) của Git giúp tối ưu hóa việc theo dõi và truy xuất lịch sử ra sao?
-
+7. Một class có thể vừa là abstract class và là interface được không? Tại sao Java không hỗ trợ đa kế thừa với class, nhưng lại hỗ trợ đa kế thừa với interface?
 - Answer:
 
-9. Những lệnh này khác nhau như thế nào về bản chất? Tại sao git reset --hard có thể gây mất dữ liệu nhưng git revert thì không?
-
+8. Khi nào sử dụng abstract class thay vì interface?
 - Answer:
 
-10. Khi dùng git commit --amend, Git thực sự làm gì? Nó có chỉnh sửa commit cũ không, hay tạo ra một commit hoàn toàn mới?
-
+9. Sự khác nhau giữa method overloading và method overriding
 - Answer:
+
+10. Có thể override một phương thức static không? về mặt ý nghĩa thì tại sao?
+- Answer:
+
+11. Garbage Collection hoạt động như thế nào trong Java? Làm sao để buộc hệ thống thực hiện thu gom rác?
+- Answer: 

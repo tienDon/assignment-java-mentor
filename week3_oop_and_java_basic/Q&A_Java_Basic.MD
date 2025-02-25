@@ -1,39 +1,47 @@
 
-# Week 3: OOP
+# Week 3: Java basic
 
-1. Lập trình hướng đối tượng là gì? So sánh với hướng lập trình thủ tục
-
-- Answer:
-
-2. Giải thích 4 nguyên tắc cơ bản OOP: Encapsulation, abstraction, Inheritance, Polymorphism
+1. Sự khác biệt giữa dữ liệu primitive và non-primitive trong Java là gì?
 
 - Answer:
 
-3. Interface và abstract Class khác nhau như thế nào?
+2. tại sao String là non-primitive type trong khi có vẻ nó chỉ chứa kí tự?
 
 - Answer:
 
-4. Một class có thể kế thừa nhiều class cùng lúc không? nếu không thì tại sao?
+3. Sự khác biệt giữa int và Integer là gì? khi nào nào dùng cái nào?
 
 - Answer:
 
-5. Làm thế nào để đảm bảo một class tuân theo nguyên tắc Encapsulation
+4. Auto-boxing và unboxing là gì? Khi nào chúng xảy ra?
+
 - Answer:
 
-6. Tại sao nên sử dụng getter và setter thay vì truy cập trực tiếp biến instance?
+5. Sự khác biệt giữa mảng tĩnh (Array) và danh sách động (ArrayList) trong Java?- Answer:
 - Answer:
 
-7. Một class có thể vừa là abstract class và là interface được không? Tại sao Java không hỗ trợ đa kế thừa với class, nhưng lại hỗ trợ đa kế thừa với interface?
+6. Sự khác biệt giữa String, StringBuffer, và StringBuilder?
 - Answer:
 
-8. Khi nào sử dụng abstract class thay vì interface?
+7. Giải thích về String Pool trong Java? Tại sao Java sử dụng String Pool?
 - Answer:
 
-9. Sự khác nhau giữa method overloading và method overriding
+8. String là immutable, điều này có nghĩa gì? Tại sao String được thiết kế theo cách này?
 - Answer:
 
-10. Có thể override một phương thức static không? về mặt ý nghĩa thì tại sao?
+9. intern() method trong String làm gì?
 - Answer:
 
-11. Garbage Collection hoạt động như thế nào trong Java? Làm sao để buộc hệ thống thực hiện thu gom rác?
+10. Chuyện gì xảy ra nếu thay đổi một giá trị của String được tạo bằng String literal?
+- Answer:
+
+11. Toán tử == và .equals() khác nhau thế nào khi so sánh Object?
+- Answer: 
+
+12. Tại sao 
+double a = 0.1
+double b = 0.2
+boolean check = (a + b) == 0.3
+tại sao check lại bằng false?
+Nếu double có nhược điểm như vậy tại sao nó vẫn tồn tại
 - Answer: 
