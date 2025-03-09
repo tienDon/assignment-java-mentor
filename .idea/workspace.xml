@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2a49d08-13fe-4311-b91d-0318d0c384bc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="08869080-72af-4cd8-b9e8-2aefdae6a9f7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/week4_java_collections/ASSIGNMENT.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week4_java_collections/Q&amp;A_Java_Collections.MD" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,56 +17,51 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 3
+  &quot;associatedIndex&quot;: 2
 }</component>
-  <component name="ProjectId" id="2sqxiMbpnHVIXextIyi7Ml2owX9" />
+  <component name="ProjectId" id="2t0z8h5ycV1elPTOLtdIuXYTZDT" />
   <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/JAVA MENTOR/assignment-java-mentor&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/quynhanh/PersonalProjects/StartupEdu/assignment-java-mentor/week4_java_collections",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week4_java_collections" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.19072.14" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.19072.14" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b2a49d08-13fe-4311-b91d-0318d0c384bc" name="Changes" comment="" />
-      <created>1739197031363</created>
+      <changelist id="08869080-72af-4cd8-b9e8-2aefdae6a9f7" name="Changes" comment="" />
+      <created>1739503621328</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1739197031363</updated>
-      <workItem from="1739197032629" duration="590000" />
-      <workItem from="1739197632523" duration="1508000" />
-      <workItem from="1739627728591" duration="242000" />
-      <workItem from="1739633366438" duration="2409000" />
-      <workItem from="1739706194139" duration="3537000" />
-      <workItem from="1739710018364" duration="3904000" />
-      <workItem from="1739800708849" duration="556000" />
-      <workItem from="1740220603808" duration="10839000" />
-      <workItem from="1740657408683" duration="119000" />
-      <workItem from="1740658416592" duration="65000" />
-      <workItem from="1740658549332" duration="60000" />
-      <workItem from="1740658623168" duration="670000" />
+      <updated>1739503621328</updated>
+      <workItem from="1739503622410" duration="612000" />
+      <workItem from="1740914950828" duration="1622000" />
     </task>
     <servers />
   </component>
